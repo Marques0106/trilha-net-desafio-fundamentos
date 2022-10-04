@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZN606EZL3rGFDhQDvfNjf85BOuXCBOz3q+10kbfzoqR1F3HWXqPgbi7n5jGPIaOF/V/3WVI5rFDKikHGS7nEzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marques\\source\\repos\\Estacionamento\\Estacionamento\\Estacionamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marques\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Marques\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

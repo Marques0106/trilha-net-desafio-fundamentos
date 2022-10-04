@@ -1,0 +1,16 @@
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\Estacionamento.AssemblyInfo.cs
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\bin\Debug\net5.0\Estacionamento.exe
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\bin\Debug\net5.0\Estacionamento.deps.json
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\bin\Debug\net5.0\Estacionamento.runtimeconfig.json
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\bin\Debug\net5.0\Estacionamento.runtimeconfig.dev.json
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\bin\Debug\net5.0\Estacionamento.dll
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\bin\Debug\net5.0\Estacionamento.pdb
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\Estacionamento.dll
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\refint\Estacionamento.dll
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\Estacionamento.pdb
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\Estacionamento.genruntimeconfig.cache
+C:\Users\Marques\source\repos\Estacionamento\Estacionamento\obj\Debug\net5.0\ref\Estacionamento.dll
